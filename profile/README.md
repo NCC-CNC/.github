@@ -1,6 +1,6 @@
 # Who We Are
 
-Yhe Nature Conservancy of Canada (NCC) is Canada's leading national land conservation organization. 
+The Nature Conservancy of Canada (NCC) is Canada's leading national land conservation organization. 
 A private, non-profit organization, we partner with individuals, corporations, foundations, Indigenous 
 communities and other non-profit organizations and governments at all levels to protect our most important 
 natural treasures — the natural areas that sustain Canada’s plants and wildlife. We secure properties 
